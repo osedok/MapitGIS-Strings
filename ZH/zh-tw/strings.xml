@@ -730,7 +730,7 @@
      <string name="geoidHeightInfo">大地水準面高度</string> 
      <string name="orthometric">正交</string> 
      <string name="externalGNSSTCP">通過TCP直接連接</string> 
-     <string name="externalGNSSTCPSum">按此使用外接GNSS接收機和通過TCP協定接收位置資訊.GNSS接收機必須通過TCP協議發送NMEA資料流程.</string> 
+     <string name="externalGNSSTCPSum">按此使用DATAGNSS接收機和通過TCP協定(localhost:52004)接收位置資訊.GNSS接收機必須通過TCP協議發送NMEA資料流程.</string> 
      <string name="externalGNSSTCPInfo">TCP GNSS</string> 
      <string name="newPointsAddCoordinates">增加點的座標.</string> 
      <string name="newPointsAddCoordinatesSum">通過輸入座標的方式增加新的點屬性、多邊形、或線的頂點.</string> 
