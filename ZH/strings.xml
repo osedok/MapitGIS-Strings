@@ -690,7 +690,7 @@
     <string name="geoidHeightInfo">大地水准面高度</string>
     <string name="orthometric">正交</string>
     <string name="externalGNSSTCP">通过TCP直接连接</string>
-    <string name="externalGNSSTCPSum">按此使用外接GNSS接收机和通过TCP协议接收位置信息.GNSS接收机必须通过TCP协议发送NMEA数据流.</string>
+    <string name="externalGNSSTCPSum">按此使用DATAGNSS接收机和通过TCP协议接收位置信息.GNSS接收机必须通过TCP协议发送NMEA数据流.</string>
     <string name="externalGNSSTCPInfo">TCP GNSS</string>
     <string name="newPointsAddCoordinates">增加点的坐标.</string>
     <string name="newPointsAddCoordinatesSum">通过输入坐标的方式增加新的点特征、多边形、或线的顶点.</string>
