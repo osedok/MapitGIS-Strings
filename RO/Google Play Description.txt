@@ -1,0 +1,58 @@
+Title:(Maximum 50 characters)
+Mapit GIS - Map Data Collector & Land Surveys  
+
+
+
+Short description:(Maximum 80 characters)
+Mobile GIS. Asset Collection, GPS Surveys and Data Management for Android. 
+
+
+
+FULL Description (Maximum 4000 characters)
+Mapit este un instrument de cartografiere și de supraveghere profesionist, de sine stătător și rentabil, conceput pentru a spori productivitatea în timp ce sunteți acolo.
+
+Aplicația acceptă formate de fișiere comune pentru intrare și ieșire și este capabilă să lucreze cu un număr de receptoare GNSS externe, astfel încât să puteți obține o precizie la nivel de centimetru atunci când trebuie.
+
+Proiectați-vă formularele de sondaj, organizați datele pe straturi, lucrați offline cu hărți de bază mbtiles, accesați serviciile WMS, utilizați urmărirea GPS pentru a capta caracteristicile liniei și poligonului, înregistrați metadatele GNSS și multe altele de descoperit.
+
+Aplicația este utilizată pe scară largă de către profesioniști din întreaga lume și poate fi adoptată cu ușurință pentru diferite aplicații, de la agricultură și silvicultură, la construcții de drumuri, geologie, sondaje de terenuri și soluții de panouri solare. Setările personalizate și flexibilitatea face ca această aplicație să fie potrivită instrumentului care vă va îmbunătăți fluxul de lucru.
+
+Aplicația poate fi folosită și ca instrument de măsurare pentru a calcula zonele sau distanțele.
+
+Atunci când salvați locația, pur și simplu alegeți atributele necesare din lista derulantă de predefinită, nu este necesar să tastați din nou aceleași informații. Importați o listă lungă de atribute din fișiere text și reutilizați-le în număr de proiecte. Dacă este necesar, puteți adăuga imagini și în fiecare locație.
+
+Dacă lucrați în domeniu, colectați o cantitate mare de date spațiale, această aplicație este proiectată pentru dvs.
+
+Accelerați-vă fluxul de lucru și eficientizați colectarea datelor. Profitați de straturile de sondaj și posibilitatea de a reutiliza același set de atribute pentru sondaje multiple. Exportați datele dvs. în formele GIS obișnuite, cum ar fi formularele Esri, CSV, KML, geojson, DXF, GPX și postați procesarea datelor utilizând software GIS Desktop, cum ar fi qGIS.
+Asistență pentru numărul de sisteme de coordonate predefinite și coduri EPSG personalizate, dacă este necesar.
+Funcții de colectare a datelor mobile:
+
+- Hărți de bază: selecții populare de hărți online și mbtile offline,
+- Suport pentru coordonatele corectate RTK atunci când este conectat GPS / GNSS Bluetooth extern,
+- Asistență pentru servicii de hartă cu gresie WMS și GIS Server - încărcare hărți topografice și ortofoto, sondaje geologice, informații cadastrale și număr de alte servicii.
+- Posibilitatea de a crea și menține seturi de atribute - acestea sunt disponibile ca listă derulantă atunci când este înregistrată o nouă caracteristică, liste lungi de valori pot fi importate din fișiere text.
+- Clustere pentru indicatoarele de hartă punctuală, un mod eficient de a avea un număr mare de puncte pe hartă fără probleme de performanță;
+- În prezent, sunt acceptate 4 metode de colectare (locația GPS / GNSS, locația cursorului hărții, urmărirea, proiecția punctului folosind unghiul și distanța),
+- Posibilitatea de a grupa datele dvs. în straturile de sondaj - fiecare strat de sondaj poate avea un set implicit de atribute.
+- Card SD local sau export la distanță. În momentul de față, sunt acceptate formfiles, exportul KML, CSV, geojson, GPX și DXF,
+- Export direct în locația Dropbox sau FTP
+- Posibilitatea de a înregistra mai multe puncte, linii și poligoane pe un singur strat,
+- Când se creează noi caracteristici de poligon sau linie, sunt de asemenea disponibile detalii de măsurare, cum ar fi zona sau lungimea.
+- Starea GPS / GNSS și a sateliților,
+- Adresa, căutarea locației,
+- Importați caracteristicile punctului, liniei și poligonului în strat din CSV, KML, shapefile sau fișier geojson,
+- Managementul copiilor de rezervă,
+- Import / Export atribute din fișier și multe altele pentru a descoperi ...
+
+Utilizatorii noștri folosesc cu succes Mapit în mai multe aplicații, inclusiv:
+- Studii de mediu și păduri;
+- Planificarea silviculturii și gestionarea pădurilor;
+- Clasificarea și eșantionarea solului pentru agricultură și sol,
+- Construcții rutiere,
+- Examinarea terenurilor,
+- Aplicații pentru panouri solare,
+- Acoperișuri și garduri,
+- Studiul de arbori,
+- Studiu GPS și GNSS,
+- Examinarea site-ului,
+- Îndepărtarea zăpezii
